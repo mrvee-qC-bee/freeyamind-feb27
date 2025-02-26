@@ -6,7 +6,7 @@ Welcome to the Freeyamind Quantum and Qiskit workshop repository! This repositor
 ## Quick links to open up notebooks using Google Colab:
 
 1. Hands-on with Qiskit
-    - [Quantum Gates](https://colab.research.google.com/github/mrvee-qC-bee/freeyamind-feb27/blob/main/1-1-Hands-on-with-Quantum-Gates)
+    - [Quantum Gates](https://colab.research.google.com/github/mrvee-qC-bee/freeyamind-feb27/blob/main/1-1-Hands-on-with-Quantum-Gates.ipynb)
     - [Hello World](https://colab.research.google.com/github/mrvee-qC-bee/freeyamind-feb27/blob/main/1-2-Hello-World.ipynb)
 
 2. [Quantum Optimization](https://colab.research.google.com/github/mrvee-qC-bee/freeyamind-feb27/blob/main/2-Quantum-Optimization-quantum-approximate-optimization-algorithm.ipynb)
